@@ -10,11 +10,13 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    /* Altura / vh - altura */
     width: 100vw;
-    /*  vw - largura */
     background-image: url("https://media.glassdoor.com/l/18185/lsg-sky-chefs-1666692118837.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
+
 
 .caixa-maior {
     background-color: #000000;/*  Troca cor de fundo  */
